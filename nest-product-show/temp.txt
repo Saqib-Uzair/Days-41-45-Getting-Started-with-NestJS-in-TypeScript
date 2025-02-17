@@ -1,1 +1,5 @@
 
+Challenge: Practice Exercise
+
+🔹 Create a ProductsService with a getProducts() method that returns an array of product names.
+🔹 Inject it into a ProductsController and create a GET /products route.
